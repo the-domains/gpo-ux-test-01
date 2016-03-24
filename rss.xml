@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[gpo-ux-test-01]]></title>
+        <description><![CDATA[gpo-ux-test-01]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 24 Mar 2016 22:49:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[IRS Clarifies and Updates Administrative Appeal Process for Docketed Cases]]></title>
+            <description><![CDATA[<article><h1>IRS Clarifies and Updates Administrative Appeal Process for Docketed Cases</h1><p>dadfs</p></article>]]></description>
+            <link>undefinedthe-irs-has-updated-and-clarifiedrev-proc-87-24-1987-1-cb/index.html</link>
+            <guid isPermaLink="false">bc76b9f1-73ed-470a-a9c7-4a3c8e1b4ecb</guid>
+            <pubDate>Thu, 24 Mar 2016 22:49:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
