@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[gpo-ux-test-01]]></title>
         <description><![CDATA[gpo-ux-test-01]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gpo-ux-test-01/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 22:49:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Mar 2016 22:50:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gpo-ux-test-01/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[IRS Clarifies and Updates Administrative Appeal Process for Docketed Cases]]></title>
             <description><![CDATA[<article><h1>IRS Clarifies and Updates Administrative Appeal Process for Docketed Cases</h1><p>dadfs</p></article>]]></description>
-            <link>undefinedthe-irs-has-updated-and-clarifiedrev-proc-87-24-1987-1-cb/index.html</link>
+            <link>https://thegrid.ai/gpo-ux-test-01/the-irs-has-updated-and-clarifiedrev-proc-87-24-1987-1-cb/index.html</link>
             <guid isPermaLink="false">bc76b9f1-73ed-470a-a9c7-4a3c8e1b4ecb</guid>
-            <pubDate>Thu, 24 Mar 2016 22:49:08 GMT</pubDate>
+            <pubDate>Thu, 24 Mar 2016 22:50:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
