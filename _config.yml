@@ -1,7 +1,7 @@
 name: gpo-ux-test-01
 favicon: null
-layout_spectrum: 0.10392967611551285
-typography_spectrum: 0.9196569542400539
+layout_spectrum: 0.25244
+typography_spectrum: 0.75187
 cta:
   domain: null
   bucket: null
