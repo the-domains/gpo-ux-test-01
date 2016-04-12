@@ -1,7 +1,7 @@
 name: gpo-ux-test-01
 favicon: null
 layout_spectrum: 0.25244
-typography_spectrum: 0.75187
+typography_spectrum: 0.48957
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.26791316783055663
-  lightness: 0.46403897856362164
-  saturation: 0.6253813928924501
-  rhythmicContrast: 0.4804533706046641
+    - '#464646'
+    - '#deffee'
+    - '#a2a2a2'
+    - '#000000'
+    - '#ff5c63'
+  brandStrength: 0.5
+  lightness: 0.8125
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
